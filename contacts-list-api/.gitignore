@@ -1,0 +1,23 @@
+# Desconsiderando arquivos gerados pelo Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Desconsiderando arquivos de cache
+.cache
+tmp
+
+# Desconsiderando arquivos de build
+dist/
+build/
+
+# Desconsiderando bancos de dados locais
+database.db
+users.db
+
+# Desconsiderando logs
+logs/
+
+# Desconsiderando arquivos de IDE
+.idea/
+.vscode/
